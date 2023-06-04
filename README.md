@@ -6,6 +6,7 @@ The iMazing Spyware Analyzer automatically downloads the latest versions of indi
 * https://github.com/AmnestyTech/investigations/tree/master/2021-12-16_cytrox
 * https://github.com/mvt-project/mvt-indicators/tree/main/2022-06-23_rcs_lab
 * https://github.com/AssoEchap/stalkerware-indicators
+* https://github.com/mvt-project/mvt-indicators/tree/main/2023-06_01_operation_triangulation
 
 You can find iMazing Spyware Analyzer's code in the following repository:
 * https://github.com/DigiDNA/iMazing-Malware-Analyzer
