@@ -12,5 +12,5 @@ The iMazing Spyware Analyzer automatically downloads the latest versions of indi
     * https://github.com/mvt-project/mvt-indicators/tree/main/2023-06_01_operation_triangulation
     * https://github.com/AmnestyTech/investigations/tree/master/2024-12-16_serbia_novispy
 
-You can find iMazing Spyware Analyzer's code in the following repository:
+## You can find iMazing Spyware Analyzer's code in the following repository:
 * https://github.com/DigiDNA/iMazing-Malware-Analyzer
