@@ -1,0 +1,12 @@
+{
+	"stix_urls": [
+    	"https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-07-18_nso/pegasus.stix2",
+    	"https://raw.githubusercontent.com/mvt-project/mvt-indicators/main/intellexa_predator/predator.stix2",
+    	"https://raw.githubusercontent.com/mvt-project/mvt-indicators/main/2022-06-23_rcs_lab/rcs.stix2",
+    	"https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/stalkerware.stix2",
+    	"https://raw.githubusercontent.com/DigiDNA/iMazing-Indicators-Of-Compromise/main/spywares/2023-04-11_KingsPawn-QuaDream/kingspawn.stix2",
+    	"https://raw.githubusercontent.com/mvt-project/mvt-indicators/main/2023-06_01_operation_triangulation/operation_triangulation.stix2",
+    	"https://raw.githubusercontent.com/AmnestyTech/investigations/master/2024-12-16_serbia_novispy/novispy.stix2",
+    	"https://raw.githubusercontent.com/mvt-project/mvt-indicators/refs/heads/main/candiru/candiru.stix2"
+	]
+}
