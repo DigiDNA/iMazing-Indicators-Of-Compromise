@@ -7,6 +7,7 @@
     "https://raw.githubusercontent.com/DigiDNA/iMazing-Indicators-Of-Compromise/main/spywares/2023-04-11_KingsPawn-QuaDream/kingspawn.stix2",
     "https://raw.githubusercontent.com/mvt-project/mvt-indicators/main/2023-06_01_operation_triangulation/operation_triangulation.stix2",
     "https://raw.githubusercontent.com/AmnestyTech/investigations/master/2024-12-16_serbia_novispy/novispy.stix2",
-    "https://raw.githubusercontent.com/mvt-project/mvt-indicators/refs/heads/main/candiru/candiru.stix2"
+    "https://raw.githubusercontent.com/mvt-project/mvt-indicators/refs/heads/main/candiru/candiru.stix2",
+    "https://raw.githubusercontent.com/AmnestyTech/investigations/refs/heads/master/2024-05-02_wintego_helios/wintego_helios.stix2"
   ]
 }
