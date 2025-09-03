@@ -12,6 +12,8 @@ The iMazing Spyware Analyzer automatically downloads the latest versions of indi
     * https://github.com/DigiDNA/iMazing-Indicators-Of-Compromise/blob/main/spywares/2023-04-11_KingsPawn-QuaDream/kingspawn.stix2
     * https://github.com/mvt-project/mvt-indicators/tree/main/2023-06_01_operation_triangulation
     * https://github.com/AmnestyTech/investigations/tree/master/2024-12-16_serbia_novispy
+    * https://github.com/AmnestyTech/investigations/tree/master/2024-05-02_wintego_helios
+    * https://github.com/mvt-project/mvt-indicators/tree/eaglemsgspy/2024-12-25_eaglemsgspy
     * https://github.com/mvt-project/mvt-indicators/tree/main/candiru
 
 ## You can find iMazing Spyware Analyzer's code in the following repository:
