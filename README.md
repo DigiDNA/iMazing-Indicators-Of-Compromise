@@ -15,8 +15,8 @@ The iMazing Spyware Analyzer automatically downloads the latest versions of indi
     * https://github.com/AmnestyTech/investigations/tree/master/2024-05-02_wintego_helios
     * https://github.com/mvt-project/mvt-indicators/tree/eaglemsgspy/2024-12-25_eaglemsgspy
     * https://github.com/mvt-project/mvt-indicators/tree/main/candiru
-    * https://github.com/brett-cmd/mvt-indicators/tree/add-coruna-cryptowaters/2026-03-03_coruna_cryptowaters
-    * https://github.com/brett-cmd/mvt-indicators/tree/darksword-indicators/2026-03-30_darksword
+    * https://github.com/mvt-project/mvt-indicators/tree/main/2026-03-03_coruna_cryptowaters
+    * https://github.com/mvt-project/mvt-indicators/tree/main/2026-03-30_darksword
 
 ## You can find iMazing Spyware Analyzer's code in the following repository:
 * https://github.com/DigiDNA/iMazing-Malware-Analyzer
