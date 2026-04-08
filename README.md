@@ -13,7 +13,7 @@ The iMazing Spyware Analyzer automatically downloads the latest versions of indi
     * https://github.com/mvt-project/mvt-indicators/tree/main/2023-06_01_operation_triangulation
     * https://github.com/AmnestyTech/investigations/tree/master/2024-12-16_serbia_novispy
     * https://github.com/AmnestyTech/investigations/tree/master/2024-05-02_wintego_helios
-    * https://github.com/mvt-project/mvt-indicators/tree/eaglemsgspy/2024-12-25_eaglemsgspy
+    * https://github.com/mvt-project/mvt-indicators/tree/main/2024-12-25_eaglemsgspy
     * https://github.com/mvt-project/mvt-indicators/tree/main/candiru
     * https://github.com/mvt-project/mvt-indicators/tree/main/2026-03-03_coruna_cryptowaters
     * https://github.com/mvt-project/mvt-indicators/tree/main/2026-03-30_darksword
